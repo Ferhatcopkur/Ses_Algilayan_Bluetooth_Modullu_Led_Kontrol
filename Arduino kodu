@@ -1,8 +1,8 @@
 String readString = "";
-#define led1 2          // 2. kapıya bağlı olan ledi kontrol edeceğiz. ledi tanımladık
-#define led2 3
-#define led3 4
-#define led4 5
+#define led1 2          // 2. kapıya bağlı olan ledi kontrol edeceğiz.ledi tanımladık
+#define led2 3          // 3. kapıya bağlı olan ledi kontrol edeceğiz.ledi tanımladık
+#define led3 4          // 4. kapıya bağlı olan ledi kontrol edeceğiz.ledi tanımladık
+#define led4 5         // 5. kapıya bağlı olan ledi kontrol edeceğiz.ledi tanımladık
 
 void hepsiniac() {
 digitalWrite (led1, HIGH);
